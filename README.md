@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello there
+
+- Python junior developer
+- Experience with clinical data
+- Previously worked with:
+  - ETL
+  - SQL
+  - OCR
+  - ER
+  - BootstrapVue
+
 
 <!--
 **dafnenliste-ship-it/dafnenliste-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
