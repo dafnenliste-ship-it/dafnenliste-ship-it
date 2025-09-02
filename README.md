@@ -9,7 +9,10 @@
   - ER
   - BootstrapVue
 
-
+------
+<a href="https://www.linkedin.com/in/dafne-nogueiras-liste/">
+  <img align="left" alt=“Dafne's LinkdeIn" width="30px" src="https://img.icons8.com/color/96/000000/linkedin-circled--v2.png" />
+</a>
 <!--
 **dafnenliste-ship-it/dafnenliste-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
